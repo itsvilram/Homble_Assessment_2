@@ -1,0 +1,31 @@
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+}
+  .Footer-logo img {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .Footer-logo p {
+    color: #252522;
+    font-size: 24px; 
+    font-weight: 700;
+  }
+  
+  .footer-links {
+    display: flex;
+    list-style: none;
+    gap: 20px; 
+    color: #252525;
+    font-size: 16px; 
+  }
+  
+  .footer-links li {
+    cursor: pointer;
+  }
+  
