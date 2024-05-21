@@ -1,4 +1,4 @@
-// src/hooks/useFetch.js
+
 import { useState, useEffect, useCallback } from 'react';
 import axios from 'axios';
 
